@@ -56,13 +56,13 @@ The original datasets present details of numbers of sharks caught in the Shark C
 The data used in these lessons has had changes made for training purposes. 
 
 {% capture text %}
-- Download the `QldSharkControlProgramCatch_2017.csv` dataset from [Griffith University’s Research Storage Space](https://research-storage.griffith.edu.au/owncloud/index.php/s/4Yn7Hdeb2NNqYMF)
+- Download the `QldSharkControlProgramCatch_2017.csv` dataset from [Griffith University’s Research Storage Space][https://research-storage.griffith.edu.au/owncloud/index.php/s/kbxFyufLOLiswLd](https://research-storage.griffith.edu.au/owncloud/index.php/s/kbxFyufLOLiswLd)
 - To your `Downloads` folder. We will then import the data into OpenRefine.
 
 Alternately, when you launch OpenRefine in the [*Create*](https://griffithunilibrary.github.io/data-cleaning-intro/content/2-lesson.html) lesson:
 
 - Import the data directly from a *Web address*
-- Using this link [https://raw.githubusercontent.com/stapletonsl/ClassData2020/master/QldSharkControlProgramCatch_2017.csv](https://raw.githubusercontent.com/stapletonsl/ClassData2020/master/QldSharkControlProgramCatch_2017.csv){% endcapture %}
+- Using this link [https://raw.githubusercontent.com/stapletonsl/ClassData2022/master/QldSharkControlProgramCatch_2017.csv](https://raw.githubusercontent.com/stapletonsl/ClassData2020/master/QldSharkControlProgramCatch_2017.csv){% endcapture %}
 {% include card.md header="Download workshop data" text=text %}
 
 -----
