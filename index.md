@@ -5,7 +5,7 @@ layout: default
 
 ## Introduction to Data Cleaning with OpenRefine
 
-{% include figure.html img="OpenRefine_New_Logo.png" alt="intro image here" caption="" width="75%" %}
+{% include figure.html img="OpenRefine_New_Logo.png" alt="OpenRefine software logo" caption="OpenRefine logo" width="75%" %}
 
 [OpenRefine](https://openrefine.org/)  is an open source tool to explore, clean, organise, combine and transform data. OpenRefine is particularly powerful when working with large datasets. 
 
