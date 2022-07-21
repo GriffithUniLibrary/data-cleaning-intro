@@ -89,15 +89,13 @@ As well as  `Text facets`, OpenRefine supports other types of facets. These incl
 
 {% capture text %}
 Use a  `Customized facet`  to find out how many records are missing *Water Temp (C)* values. This facet shows *true* or *false* results.
-{% include modal.md button="Quiz 1 Solution" color="success" title="Quiz 1 Solutions" text="Select  `Facet > Customized facets > `Facet by blank (null or empty)`. 
-Result 1.%}
-
+- Select  `Facet > Customized facets > `Facet by blank (null or empty)`. 
 - Hover over the *false* results and select `include`
 
 This result is a totals line which we don't need, let's remove it.
 - Select  `All column > Edit rows > Remove all matching rows`.
 - This value is now displayed in red and missing counts. Click  `reset`.
-- How many records are now available? (428){% endcapture %} {% include card.md header="Quiz 1. What data is missing in  `Water Temp (C)`  column?" text=text %}
+- How many records are now available? (428){% endcapture %} {% include card.md header="What data is missing in  `Water Temp (C)`  column?" text=text %}
 
 --------
 
