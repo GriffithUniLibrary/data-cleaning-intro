@@ -67,7 +67,7 @@ You can also edit values using the facets feature.
 The *Species Name* values are represented in all capital letters. Let's change this using a `Common transforms` to titlecase. 
 {% capture text %}
 - Select `Species Name > Edit cells > Common transforms > To titlecase`.
-Now the case format is consistent throught the dataset.{% endcapture %} {% include card.md header="Activity - fix font case with `Common transforms` text=text %}
+Now the case format is consistent throught the dataset.{% endcapture %} {% include card.md header="Activity - fix font case with `Common transforms`" text=text %}
 
 OpenRefine's many transformations functions will be explored further soon.
 
