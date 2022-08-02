@@ -14,7 +14,7 @@ OpenRefine displays data in a tabular format, similar to how you might view data
 - Individual bits of data or 'values' live in 'cells' at the intersection of a row and a column
 
 - A limited number of rows of data are displayed to save on memory, however the program is working on ALL rows.
-- Adjust the number of rows displayed by selecting 5, 10, 25 or 50 at the top left of the table of data.
+- Adjust the number of rows displayed by selecting 5, 10, 25, 50 etc. at the top left of the table of data. It isn't necessary to show large amounts on the screen as OpenRefine has better ways of exploring the data.
 
 ### Working with data in OpenRefine
 
