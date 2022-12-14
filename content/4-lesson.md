@@ -69,6 +69,10 @@ The *Species Name* values are represented in all capital letters. Let's change t
 - Select `Species Name > Edit cells > Common transforms > To titlecase`.
 Now the case format is consistent throught the dataset.{% endcapture %} {% include card.md header="Activity - fix font case with `Common transforms`" text=text %}
 
+##### Watch these steps in the video below.
+
+<div style="padding:65.63% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/781293593?h=9808616cb4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Facets in OpenRefine"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 OpenRefine's many transformations functions will be explored further soon.
 
 ----
@@ -84,7 +88,6 @@ As well as  `Text facets`, OpenRefine supports other types of facets. These incl
   - `Duplicates facet`  - this results in a binary facet of 'true' or 'false'. Rows appear in the 'true' facet if the value in the selected column is an exact match for a value in the same column in another row.
   - `Text length facet`  - creates a numeric facet based on the length (number of characters) of the text in each row for the selected column. This can be useful for spotting incorrect or unusual data in a field where specific lengths are expected (e.g., if the values are expected to be years, any row with a text length of more than 4 for that column is likely to be incorrect.)
   - `Facet by blank (null or empty)`  - a binary facet of 'true' or 'false'. Rows appear in the 'true' facet if they have no data present in that column. This is useful when looking for missing data.
-
 
 
 {% capture text %}
