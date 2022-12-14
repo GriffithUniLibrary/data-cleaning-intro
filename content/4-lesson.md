@@ -92,8 +92,8 @@ As well as  `Text facets`, OpenRefine supports other types of facets. These incl
 
 {% capture text %}
 Use a  `Customized facet`  to find out how many records are missing *Water Temp (C)* values. This facet shows *true* or *false* results.
-- Select  `Facet > Customized facets > `Facet by blank (null or empty)`. 
-- Hover over the *false* results and select `include`
+- Select  `Facet > Customized facets > Facet by blank (null or empty)`.
+- Hover over the *false* results and select `include`.
 
 This result is a totals line which we don't need, let's remove it.
 - Select  `All column > Edit rows > Remove all matching rows`.
