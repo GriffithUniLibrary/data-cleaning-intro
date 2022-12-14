@@ -29,6 +29,8 @@ If OpenRefine does not automatically open within your browser after launch, poin
 {% capture alert %}Note: Keep the terminal window hosting Java open in the background.{% endcapture %} {% include alert.md text=alert color="warning" %}
 {% include figure.html img="ORJava.JPG" alt="Terminal Java" caption="Keep the terminal window open when using OpenRefine" width="75%" %}
 
+<div style="padding:62.66% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/780945571?h=e9167644d9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="OpenRefine Launch 2"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 -----
 
 ### Create a Project
