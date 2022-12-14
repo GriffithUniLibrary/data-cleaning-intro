@@ -48,7 +48,8 @@ Projects are saved automatically as you work on them,  so there is no need to sa
 To open an existing project in OpenRefine, click  `Open Project`  from the main OpenRefine screen (in the left-hand menu). 
 When you click this, you will see a list of the existing projects and can click on a project's name to open it.
 
-{% include button.md text="Watch this video to see OpenRefine's layout" link="  " color="info" %}
+##### Watch this video to see OpenRefine's layout.
+<div style="padding:62.66% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/780981536?h=95c2cf6f1c&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Layout of OpenRefine"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 -----
 
