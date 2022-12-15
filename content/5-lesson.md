@@ -126,6 +126,10 @@ It is now possible to see the missing code `37018022` which matches the species 
 
 Notice the yellow Mass Edit notice listing how many records were changed.{% endcapture %} {% include card.md header="Activity - find & fix missing values by sorting" text=text %}
 
+##### Watch the steps to sort data in this video.
+
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/781366985?h=1a484c9e0f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="SortingInOpenRefine.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 -----
 
 <p align="center">
