@@ -21,9 +21,11 @@ There are many records in this dataset and you can filter them to work on a subs
 
 Faceting and filtering look very similar. A good distinction is that faceting gives you an overview, description and count of all of the data that is currently selected, while filtering allows you to select a subset of your data by a string - of text in this case - for analysis or cleaning.
 
-{% include button.md text="Watch this video on filtering" link="" color="info" %}
+##### Watch this video on filtering
 
-------
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/781345919?h=ac3a2cea9a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="FilterInOpenRefine.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+---
 
 ### Working with columns 
 
