@@ -48,7 +48,10 @@ Below these are counts of the number of cells in each category. You should see c
 
 Note that closing a facet will not undo the edits you have made to the cells in this column.
 - Use the  `Undo / Redo`  function to reverse these changes.{% endcapture %} {% include card.md header="Activity - numeric facet" text=text %}
-{% include button.md text="Watch this video to learn the steps" link="   " color="info" %}
+
+##### Watch this video to find out how do perform the steps above.
+
+<div style="padding:65.63% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/782406598?h=036f742c2e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dates an numbers in OpenRefine"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 -----
 
