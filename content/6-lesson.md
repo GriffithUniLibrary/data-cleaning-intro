@@ -53,7 +53,8 @@ It is easy to re-use GREL expressions, as OpenRefine provides a history of comma
 - preview to check correctness
 - click  `OK`.{% endcapture %} {% include card.md header="Activity - repeat transformation steps by using History" text=text %}
 
-{% include button.md text="See the steps taken in this video" link="" color="info" %}
+##### See the steps taken in this video. 
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/782366289?h=369fe1bb1e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GREL_Shark.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 -----
 
