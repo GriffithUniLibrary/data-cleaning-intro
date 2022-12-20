@@ -36,7 +36,8 @@ The downloaded  `tar.gz`  file is a folder of files which have been compress
 For *Windows-based* machines, you may have to install a utility like *7-zip* to expand the zip file.{% endcapture %} {% include card.md header="Activity - export a project" text=text %}
 
 
-{% include button.md text="Learn to export with this video" link="" color="info" %}
+##### Learn to export with this video. 
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/782736674?h=ae95017c50&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Exporting data and projects from OpenRefine"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ----
 
