@@ -56,7 +56,7 @@ What files are here? What information do you think these files contain?
 
 ### Going Further
 
-Want to continue your learning?  Go to [Advanced Data Wrangling with OpenRefine](https://griffithunilibrary.github.io/Advanced-data-wrangle/) for more.
+Want to continue your learning?  Go to [Advanced Data Wrangling with OpenRefine - 2](https://griffithunilibrary.github.io/advanced-data-wrangle-2/) for more.
 
 ----
 
