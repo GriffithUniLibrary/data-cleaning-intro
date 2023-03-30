@@ -57,10 +57,10 @@ In this next activity you want to limit to a sub-set of this data, with records 
 You can also edit values using the facets feature. 
 {% capture text %}
 - Use faceting to look at the  `Species Name`  Column.
-- What are the results? 35 value choices. Do you see different representations of the same value?
+- What are the results? 34 value choices. Do you see different representations of the same value?
 - Hover over  *BULL WHALERS* and choose  `Edit` correct the spelling to *BULL WHALER* then select `Apply`. This changes all five incorrect records.
 - Do this again for *COMMON BLACKTIP WHALERS* to correct the spelling for all records at once.
-- Do you now have 33 value choies for the variable `Species Name`? 
+- Do you now have 32 value choies for the variable `Species Name`? 
 - We will explore the other representations of values in another exercise.
 - Close facet{% endcapture %} {% include card.md header="Activity – fixing errors with Facets" text=text %}
 
