@@ -4,7 +4,7 @@
 
 # Site settings
 # title appears in the header
-title: data cleaning intro
+title: Introduction to data cleaning with Open Refine
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Font Awesome 5 free, https://fontawesome.com/icons?d=gallery&m=free
 # some options: fas fa-wrench; fas fa-cogs; fas fa-code; fas fa-chalkboard-teacher; fas fa-book-open
@@ -14,12 +14,13 @@ description: "A workshop for learning basic data cleaning skills"
 keywords: "OpenRefine, data, data wrangling, data cleaning, workshop"
 featured-image: "/images/GC_Campus_LM-3181.jpg"
 
-# author settings for cc-by, appears in the footer
-author: Sharron Stapleton
+# author settings for cc-by-nc, appears in the footer
+author: Griffith Univerity Library
 pub_year: 2022
 github_username: stapletonsl
 
 # add the full url for the github repository
+source-code: "https://github.com/GriffithUniLibrary/data-cleaning-intro/"
 repo: "https://github.com/GriffithUniLibrary/data-cleaning-intro/"
 
 # site urls
